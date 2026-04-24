@@ -1,4 +1,3 @@
-# Circuit-Calculator
 
 #include <iostream>
 using namespace std;
